@@ -24,9 +24,10 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: "#1c1c22",
+        primary: "#181822",
+        secondary: "#F3F3E7",
         accent: {
-          DEFAULT: "#00ff99",
+          DEFAULT: "#F84F35",
           hover: "#00e187",
         }
       },
