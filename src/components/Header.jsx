@@ -12,7 +12,7 @@ const Header = () => {
             {/* logo */}
             <Link href="/">
                 <h1 className="text-4xl font-semibold">
-                    Lander <span className="text-accent">.</span>
+                    Lander <span className="text-accent animate-pulse">.</span>
                 </h1>
             </Link>
             {/* desktop nav */}
